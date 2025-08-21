@@ -1,0 +1,9 @@
+<header>
+  <img src="logo.png" alt="Hucidis Store Logo" class="logo">
+</header>
+<style> .logo {
+  width: 150px;  /* adjust size */
+  height: auto;
+  display: block;
+  margin: 0 auto;  /* centers the logo */
+}
